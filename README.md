@@ -24,5 +24,7 @@ GET http://localhost:8989/api/findBookByName/{name}
 - add books deleting.
 - BookServiceImpl findBookByAuthor must be changed to findBooksByAuthor and show all books which author wrote.
   stream.collect, return List<Books>
+- add exception handling
+-- add validation before add
 - add database
 ```
