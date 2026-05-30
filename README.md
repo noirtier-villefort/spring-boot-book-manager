@@ -6,8 +6,8 @@
 POST localhost:8989/api/addBook
 Content-Type: application/json
 {
-  "author": "BAAA Tester",
-  "name": "BookNam44e2",
+  "author": "TestAuthor",
+  "name": "BookTestName",
   "pages": 222
 }
 ```
